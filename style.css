@@ -1,0 +1,63 @@
+.prime
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.sp
+{
+    font-size: 15px;
+    color: darkorchid;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.speed
+{
+    float: left;
+}
+
+.image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#bottle
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.imae 
+{
+width: 200px;
+border-radius: 100px;
+}
+
+#keys
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.volume
+{
+    float: right;
+}
+
+.sketch
+{
+    width: 130px;
+font-size: 25px;
+}
+
+canvas
+{
+    border: 5px solid peachpuff;
+    border-radius: 20px;
+}
